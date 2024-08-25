@@ -66,5 +66,3 @@ yarn-debug.log*
 /public/packs-test
 
 .github
-
-.gitignore
