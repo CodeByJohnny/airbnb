@@ -58,3 +58,13 @@ yarn-debug.log*
 # Ignore all dotfiles
 **/.DS_Store
 .DS_Store
+
+# Ignore the public/packs directory
+/public/packs
+
+# Ignore the public/packs-test directory
+/public/packs-test
+
+.github
+
+.gitignore
